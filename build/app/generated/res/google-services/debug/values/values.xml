@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">408041231462-5lpak1js00ju1dif110ulpgljc7kfih8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://flutter-navigator.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">408041231462</string>
+    <string name="google_api_key" translatable="false">AIzaSyAKt7MFYJb2wSYwTAxN5RM75Vi_Bto0Okc</string>
+    <string name="google_app_id" translatable="false">1:408041231462:android:144c12eb92d23b60b909a7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAKt7MFYJb2wSYwTAxN5RM75Vi_Bto0Okc</string>
+    <string name="google_storage_bucket" translatable="false">flutter-navigator.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-navigator</string>
+</resources>

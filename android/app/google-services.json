@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "408041231462",
+    "firebase_url": "https://flutter-navigator.firebaseio.com",
+    "project_id": "flutter-navigator",
+    "storage_bucket": "flutter-navigator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408041231462:android:144c12eb92d23b60b909a7",
+        "android_client_info": {
+          "package_name": "com.duong.minh.flutter_navigator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408041231462-5lpak1js00ju1dif110ulpgljc7kfih8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKt7MFYJb2wSYwTAxN5RM75Vi_Bto0Okc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408041231462-5lpak1js00ju1dif110ulpgljc7kfih8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
